@@ -3,4 +3,4 @@ testing git/github functionalities
 
 Another commit on the dev branch
 
-second attempt : main
+second attempt : maine
